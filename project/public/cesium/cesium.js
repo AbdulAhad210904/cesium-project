@@ -1,0 +1,1 @@
+console.log('Cesium assets loaded');
